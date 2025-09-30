@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recetario Web Unillanista</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>🍳 Recetario Web Unillanista</h1>
+            <p class="subtitle">Tu portal de gastronomía universitaria</p>
+        </div>
+    </header>
+
+    <main class="container">
+        <!-- Navegación de breadcrumbs -->
+        <nav class="breadcrumbs" id="breadcrumbs">
+            <button class="breadcrumb-item active" data-path="">
+                🏠 Inicio
+            </button>
+        </nav>
+
+        <!-- Vista de navegación (carpetas y archivos) -->
+        <div id="navigationView" class="navigation-view">
+            <div class="loading">
+                <div class="spinner"></div>
+                <p>Cargando recetas...</p>
+            </div>
+        </div>
+
+        <!-- Vista de receta (contenido markdown renderizado) -->
+        <div id="recipeView" class="recipe-view" style="display: none;">
+            <button class="back-button" id="backButton">
+                ← Volver
+            </button>
+            <article id="recipeContent" class="recipe-content">
+            </article>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 Universidad de los Llanos - Programa de Gastronomía</p>
+            <p class="footer-note">Hecho con ❤️ para los futuros chefs unillanistas</p>
+        </div>
+    </footer>
+
+    <!-- Librería marked.js para parsear markdown -->
+    <script src="https://cdn.jsdelivr.net/npm/marked@11.0.0/marked.min.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
