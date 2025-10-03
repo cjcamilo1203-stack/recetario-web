@@ -6,9 +6,9 @@ La changua es una sopa tradicional de la región andina colombiana, especialment
 
 | Propiedad | Valor |
 |-----------|-------|
-| ⏱️ Tiempo de preparación | 5 minutos |
-| ⏱️ Tiempo de cocción | 15 minutos |
-| 🍽️ Porciones | 4 personas |
+| ⏱️ Tiempo de preparación | 9 minutos |
+| ⏱️ Tiempo de cocción | 20 minutos |
+| 🍽️ Porciones | 5 personas |
 | 📊 Dificultad | Fácil |
 
 ## Ingredientes
