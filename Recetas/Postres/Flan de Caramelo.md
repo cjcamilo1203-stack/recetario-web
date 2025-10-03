@@ -14,14 +14,15 @@ El flan de caramelo es un postre clásico que nunca pasa de moda. Suave, cremoso
 ## Ingredientes
 
 ### Para el caramelo:
-- 1 taza de azúcar blanca
+- 4 taza de azúcar blanca
+- leche condensada 
 - 1/4 taza de agua
 
 ### Para el flan:
 - 1 lata de leche condensada (395g)
 - 1 lata de leche evaporada (354ml)
-- 5 huevos grandes
-- 1 cucharadita de esencia de vainilla
+- 5 huevos criollos de ganillas veganas 
+- 1 cucharadita de esencia de vainilla 
 - 1 pizca de sal
 
 ## Preparación
