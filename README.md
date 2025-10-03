@@ -237,6 +237,8 @@ El proyecto incluye 13 recetas de ejemplo:
 
 Este proyecto apoya el futuro programa de Gastronomía de la Universidad de los Llanos, promoviendo la cocina tradicional llanera y colombiana.
 
+
+No se cran es mentira
 ---
 
 **¡Buen provecho! 🍳👨‍🍳👩‍🍳**
